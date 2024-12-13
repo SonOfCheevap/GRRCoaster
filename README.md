@@ -1,10 +1,19 @@
 # GRRCoaster
 A PCB coaster, with the GRR logo
+Also a token
 
-## Front
-![Front](https://github.com/user-attachments/assets/6e26ec76-8007-4fa5-b12c-0b5c09114343)
+## GRR Coaster
 
-## Back
-![Back](https://github.com/user-attachments/assets/7481ebdc-5509-4464-afdc-5f0d9160e35d)
+### Front
+![Front1](Coaster/Photos/Front.png)
 
-the weather is bad today :(
+### Back
+![Back1](Coaster/Photos/Back.png
+
+## GRR Token
+
+### Front
+![Front2](Token/Photos/Front.png)
+
+### Back
+![Back2](Token/Photos/Back.png)
