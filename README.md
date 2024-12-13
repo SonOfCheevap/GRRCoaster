@@ -1,6 +1,6 @@
 # GRRCoaster
-A PCB coaster, with the GRR logo
-Also a token
+A PCB coaster, with the GRR logo, 90mm.
+Also a token, 60mm.
 
 ## GRR Coaster
 
